@@ -1,0 +1,7 @@
+ADMIN$,Admin remota,C:\Windows
+C$,Recurso predeterminado,C:\
+D,D,D:\
+D$,Recurso predeterminado,D:\
+Downloads,Downloads,C:\Users\RISBO\Downloads
+IPC$,IPC remota,
+Users,Users,C:\Users
